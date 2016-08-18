@@ -6,6 +6,10 @@ h1{
     color: beige;
 }
 
+li.sub{
+  bottom: -0.25em;
+}
+
 div.about{
     background: honeydew;
 }
