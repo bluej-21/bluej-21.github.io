@@ -1,6 +1,23 @@
 body{
     background-color: powderblue;
 }
+
 h1{
     color: beige;
+}
+
+div.about{
+    background: honeydew;
+}
+
+div.education{
+    background: #F6F5DA;
+}
+
+div.experience{
+    background: oldlace;
+}
+
+div.projects{
+    background: aliceblue;
 }
